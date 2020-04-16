@@ -32,7 +32,7 @@
           <!-- Logo -->
           <router-link tag="div" class="vx-logo cursor-pointer flex items-center" to="/">
             <logo class="w-12 mr-4 text-primary fill-current" />
-            <span class="vx-logo-text text-primary titleLogo" v-show="isMouseEnter || !reduce" v-if="title">CovidStatus</span>
+            <span class="vx-logo-text text-primary titleLogo" v-show="isMouseEnter || !reduce" v-if="title">VirusStats</span>
           </router-link>
           <!-- /Logo -->
 
