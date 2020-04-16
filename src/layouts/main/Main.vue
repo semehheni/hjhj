@@ -10,7 +10,7 @@
 
     <v-nav-menu
       :navMenuItems = "navMenuItems"
-      title         = "CovidStatus"
+      title         = "VirusStats"
       parent        = ".layout--main" />
 
     <div id="content-area" :class="[contentAreaClass, {'show-overlay': bodyOverlay}]">
