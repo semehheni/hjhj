@@ -1,12 +1,12 @@
 
 <h1 align="center">
   <br>
-  <a href="http://covidstatus.com/"><img src="demo/Covidlogo.png" width="400"></a>
+  <a href="https://www.virusstats.live"><img src="demo/Covidlogo.png" width="400"></a>
   <br>
   <br>
 </h1>
 
-<h4 align="center">CovidStatus - COVID-19 Novel Coronavirus Live Update ,Charts, News in 5 languages</h4>
+<h4 align="center">Virus Stats - COVID-19 Novel Coronavirus Live Update ,Charts, News in 5 languages</h4>
 
 
  
